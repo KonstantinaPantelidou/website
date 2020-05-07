@@ -1,0 +1,118 @@
+body {
+    margin: 0px;
+	
+ }
+header{
+    color: white;
+    background-color: black;
+    text-align: center;
+	padding: 1em;
+}
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+	padding: 1em;
+	clear: left;
+}
+nav {
+    background-color: lightgray;
+    float: left;
+    width: 14%;
+    padding-bottom: 15%;
+}
+aside{
+    background-color: grey;
+    float: right;
+    width: 14%;
+	text-align: center;
+	padding-bottom: 21.4%;
+}
+
+section {
+	float: left;
+    width: 70%; 
+    margin-left: 10px;
+		
+}
+img{
+    float: right;
+	height: 90%;
+	
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 5px;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  padding: 8px;
+  margin-bottom: 7px;
+  background-color: #33b5e5;
+  color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.menu li:hover {
+  background-color: #0099cc;
+}
+
+table, th, td {
+  vertical-align: bottom;
+  text-align: left;
+  border: 1px solid black;
+  background-color : #BDBDBD;
+  border-style: dotted;
+  border-color: #071418;
+}
+
+ul.b {
+  list-style-type: square;
+  border-style: solid;
+  background-color: #A52A2A;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+h3 {
+	position:absolute;
+	
+}
+h4{
+	font-weight:bold;
+}
+
+p {
+  background-color: darksalmon;
+}
+
+#id01 {
+  background-color: WhiteSmoke;
+}
+
+h1, h4 {
+	
+	text-align: center;
+}
+
+p:nth-child(3) {
+  background: LemonChiffon;
+}
+
+.btn2:active {
+  background-color: yellow;
+  font-weight:bold;
+  color:red;
+}
