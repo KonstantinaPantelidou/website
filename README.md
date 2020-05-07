@@ -1,2 +1,2 @@
 # website
-Website showing capitals of Europe.
+Website that presents capitals of Europe.
